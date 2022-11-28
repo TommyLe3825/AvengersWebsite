@@ -1,0 +1,25 @@
+body {
+	background:#999;
+	font-family: arial;
+}
+
+h1 {
+	background:#999;
+	color:#000;
+}
+
+p {
+	background:#2B547E;
+	color:#E5E4E2;
+	padding:10px 0px;
+}
+
+img{
+	background:#00008B;
+	color:#000;
+}
+
+ul, a{
+	background:#00008B;
+	color:#FFFFFF;
+}
